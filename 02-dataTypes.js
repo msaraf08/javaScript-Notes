@@ -18,3 +18,5 @@ let isLogedIn = false
 console.log(typeof "Manish");
 console.log(typeof age);
 
+console.log(typeof null); // object
+console.log(typeof undefined); // undefined
